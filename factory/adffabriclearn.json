@@ -1,0 +1,9 @@
+{
+	"name": "adffabriclearn",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6c0093b6-6235-45ae-9515-3c763115fb81",
+		"tenantId": "ed524302-3f11-4349-ab71-b371c093c638"
+	}
+}
